@@ -1,9 +1,5 @@
 # Learn Node.js from Scratch
 
-<div align="center">
-  <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width="200" alt="Node.js Logo">
-</div>
-
 Welcome to the repository dedicated to teaching Node.js. Below are the steps to get started and run programs.
 
 ## 🚀 Getting Started
